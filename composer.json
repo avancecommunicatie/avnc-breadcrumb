@@ -1,0 +1,7 @@
+{
+    "name": "avancecommunicatie/avnc-breadcrumb",
+    "require": {},
+    "autoload": {
+      "psr-4": { "avancecommunicatie\\Breadcrumb\\" : "src/" }
+    }
+}
